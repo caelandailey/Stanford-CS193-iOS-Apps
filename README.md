@@ -19,6 +19,35 @@ Tools and APIs required to build applications for the iPhone and iPad platforms 
 12. Notifications, Application Lifecycle, Persistence  
 13. Accessibility  
 
+### Videos
+| #    | Name          | 
+| ------------- |:-------------| 
+| 1 | [Introduction to iOS 10, Xcode 8 and Swift 3](https://www.youtube.com/watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) |
+| 2 | [MVC; iOS, Xcode and Swift Demonstration](https://www.youtube.com/watch?v=-auG-myu02Q&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=2)| 
+| 3 |[More Swift and the Foundation Framework](https://www.youtube.com/watch?v=4VoSeyy6KRc&index=3&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)|
+| 4 |[Views](https://www.youtube.com/watch?v=Lx4Ohhsc3ho&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=4)|
+| 5 |[Gestures and Multiple MVCs](https://www.youtube.com/watch?v=FXinJu_NkWU&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=5)| 
+| 6 |[Multiple MVCs, View Controller Lifecycle, and Memory Management](https://www.youtube.com/watch?v=HQrXM2zUPvY&index=6&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)|
+| 7 |[Error Handling, Extensions, Protocols, Delegation, and Scroll View](https://www.youtube.com/watch?v=GIlsl-6TqmM&index=7&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)|
+| 8 |[Multithreading and Text Field](https://www.youtube.com/watch?v=-h9kbzg3RK8&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=8)|
+| 9 |[Table View](https://www.youtube.com/watch?v=78LWmmDxr4k&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=9)|
+| 10 |[Core Data](https://www.youtube.com/watch?v=ssIpdu73p7A&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=10)|
+| 11 |[Core Data Demo](https://www.youtube.com/watch?v=whF63GTaW1w&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=11)|
+| 12 |[Autolayout](https://www.youtube.com/watch?v=UPpl3LV5L8w&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=12)|
+| 13 |[Timer and Animation](https://www.youtube.com/watch?v=6tdNJwDwFys&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=13)| 
+| 14 |[Dynamic Animation Demo](https://www.youtube.com/watch?v=8RYQ1a_ZDmw&index=14&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)|
+| 15 |[More Segues](https://www.youtube.com/watch?v=MJkLuBbkgGc&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=15)|
+| 16 |[Alerts and Action Sheets, Notifications, Application Lifecycle, and Persistence](https://www.youtube.com/watch?v=hkUeDMW7qX0&index=16&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)|
+| 17 |[Accessibility](https://www.youtube.com/watch?v=NOzXRBom7bw&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=17)|
+
+### Readings
+| #    | Name          | 
+| ------------- |:-------------| 
+| 1 | Reading Assignment 1: Intro to Swift     |
+| 2 |Reading Assignment 2: More Swift|
+| 3 |Reading Assignment 3: The Rest of Swift|
+
+### Everything in order
 | #    | Name          | Description  | 
 | ------------- |:-------------| :-----|
 | 1 | [1. Introduction to iOS 10, Xcode 8 and Swift 3](https://www.youtube.com/watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | Video |
