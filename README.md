@@ -5,19 +5,19 @@
 Tools and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK. User interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, Swift programming language. Other topics include: object-oriented database API, animation, mobile device power management, multi-threading, networking and performance considerations.
 
 ## Course Outline
-   I. Introduction
-  II. MVC
- III. Swift
-  IV. Views, Gestures, and Closures
-   V. Extensions, Protocols, and Delegation
-  VI. Multithreading
- VII. Table View
-VIII. Core Data
-  IX. Autolayout
-   X. Animation
-  XI. Segues
- XII. Notifications, Application Lifecycle, Persistence
-XIII. Accessibility
+   I. Introduction  
+  II. MVC  
+ III. Swift  
+  IV. Views, Gestures, and Closures  
+   V. Extensions, Protocols, and Delegation  
+  VI. Multithreading  
+ VII. Table View  
+VIII. Core Data  
+  IX. Autolayout  
+   X. Animation  
+  XI. Segues  
+ XII. Notifications, Application Lifecycle, Persistence  
+XIII. Accessibility  
 
 | #    | Name          | Description  | 
 | ------------- |:-------------| :-----|
