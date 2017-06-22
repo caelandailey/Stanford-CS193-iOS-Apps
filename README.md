@@ -47,6 +47,35 @@ Tools and APIs required to build applications for the iPhone and iPad platforms 
 | 2 |Reading Assignment 2: More Swift|
 | 3 |Reading Assignment 3: The Rest of Swift|
 
+### In-class material
+| #    | Name          | 
+| ------------- |:-------------| 
+| 1 | Lecture 1 Slides   | 
+| 2 |Lecture 2 Slides|
+| 3 |Lecture 3 Slides|
+| 4|Lecture 4 Slides|
+|5 |Lecture 5 Slides |
+| 6 |Lecture 6 slides|
+| 7 |Lecture 7 Slides|
+| 8 |Lecture 8 Slides|
+| 9 |Lecture 9 Slides|
+| 10 |Lecture 10 Slides|
+| 11 |Lecture 11 Demo Code: Smashtag|
+| 12 |Lecture 12 Slides|
+| 13 |Lecture 13 Slides|
+| 14 |Lecture 14 Demo Code: Asteroids|
+| 15 |Lecture 15 Slides| 
+| 16 |Lecture 16 Slides|
+
+### Projects
+| #    | Name          | 
+| ------------- |:-------------| 
+| 1 |Calculator| 
+| 2 |Calculator Brain|
+| 3 |Graphing Calculator|
+| 4 |Smashtag Mentions|
+| 5 |Smashtag Mention Popularity|
+
 ### Everything in order
 | #    | Name          | Description  | 
 | ------------- |:-------------| :-----|
