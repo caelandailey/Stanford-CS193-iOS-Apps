@@ -43,44 +43,44 @@ Tools and APIs required to build applications for the iPhone and iPad platforms 
 ### Readings
 | #    | Name          | 
 | ------------- |:-------------| 
-| 1 | Reading Assignment 1: Intro to Swift     |
-| 2 |Reading Assignment 2: More Swift|
-| 3 |Reading Assignment 3: The Rest of Swift|
+| 1 | [Reading Assignment 1: Intro to Swift](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Readings/Reading%20Assignment%201_%20Intro%20to%20Swift.pdf)     |
+| 2 |[Reading Assignment 2: More Swift](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Readings/Reading%20Assignment%202_%20More%20Swift.pdf)|
+| 3 |[Reading Assignment 3: The Rest of Swift](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Readings/Reading%20Assignment%203_%20The%20Rest%20of%20Swift.pdf)|
 
 ### In-class material
 | #    | Name          | 
 | ------------- |:-------------| 
-| 1 | Lecture 1 Slides   | 
-| 2 |Lecture 2 Slides|
-| 3 |Lecture 3 Slides|
-| 4|Lecture 4 Slides|
-|5 |Lecture 5 Slides |
-| 6 |Lecture 6 slides|
-| 7 |Lecture 7 Slides|
-| 8 |Lecture 8 Slides|
-| 9 |Lecture 9 Slides|
-| 10 |Lecture 10 Slides|
-| 11 |Lecture 11 Demo Code: Smashtag|
-| 12 |Lecture 12 Slides|
-| 13 |Lecture 13 Slides|
-| 14 |Lecture 14 Demo Code: Asteroids|
-| 15 |Lecture 15 Slides| 
-| 16 |Lecture 16 Slides|
+| 1 | [Lecture 1 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%201%20Slides.pdf)   | 
+| 2 |[Lecture 2 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%202%20Slides.pdf)|
+| 3 |[Lecture 3 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%203%20Slides.pdf)|
+| 4|[Lecture 4 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%204%20Slides.pdf)|
+|5 |[Lecture 5 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%205%20Slides.pdf) |
+| 6 |[Lecture 6 slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%206%20Slides.pdf)|
+| 7 |[Lecture 7 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%207%20Slides.pdf)|
+| 8 |[Lecture 8 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%208%20Slides.pdf)|
+| 9 |[Lecture 9 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%209%20Slides.pdf)|
+| 10 |[Lecture 10 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%2010%20Slides.pdf)|
+| 11 |[Lecture 11 Demo Code: Smashtag](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%2011%20Demo%20Code_%20Smashtag.pdf)|
+| 12 |[Lecture 12 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%2012%20Slides.pdf)|
+| 13 |[Lecture 13 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%2013%20Slides.pdf)|
+| 14 |[Lecture 14 Demo Code: Asteroids](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%2014%20Demo%20Code_%20Asteroids.pdf)|
+| 15 |[Lecture 15 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%2015%20Slides.pdf)| 
+| 16 |[Lecture 16 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%2016%20Slides.pdf)|
 
-### Projects
+### Assignments
 | #    | Name          | 
 | ------------- |:-------------| 
-| 1 |Calculator| 
-| 2 |Calculator Brain|
-| 3 |Graphing Calculator|
-| 4 |Smashtag Mentions|
-| 5 |Smashtag Mention Popularity|
+| 1 |[Calculator](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Assignments/Programming%20Project%201_%20Calculator.pdf)| 
+| 2 |[Calculator Brain](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Assignments/Programming%20Project%202_%20Calculator%20Brain.pdf)|
+| 3 |[Graphing Calculator](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Assignments/Programming%20Project%203_%20Graphing%20Calculator.pdf)|
+| 4 |[Smashtag Mentions](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Assignments/Programming%20Project%204_%20Smashtag%20Mentions.pdf)|
+| 5 |[Smashtag Mention Popularity](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Assignments/Programming%20Project%205_%20Smashtag%20Mention%20Popularity.pdf)|
 
 ### Everything in order
 | #    | Name          | Description  | 
 | ------------- |:-------------| :-----|
 | 1 | [1. Introduction to iOS 10, Xcode 8 and Swift 3](https://www.youtube.com/watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | Video |
-| 2 | Lecture 1 Slides   |  Slides |
+| 2 | [Lecture 1 Slides](https://github.com/caelandailey/Stanford-CS193-iOS-Apps/blob/master/Material/Lecture%201%20Slides.pdf)   |  Slides |
 | 3 | Reading Assignment 1: Intro to Swift     |   Reading|
 | 4 | [2. MVC; iOS, Xcode and Swift Demonstration](https://www.youtube.com/watch?v=-auG-myu02Q&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=2)| Video |
 | 5 |Lecture 2 Slides| Slides |
